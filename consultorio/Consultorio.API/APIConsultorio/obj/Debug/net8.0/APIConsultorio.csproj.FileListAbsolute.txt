@@ -1,0 +1,7 @@
+C:\FACUL\PROJETO_FINAL\consultorio\Consultorio.API\APIConsultorio\obj\Debug\net8.0\APIConsultorio.csproj.AssemblyReference.cache
+C:\FACUL\PROJETO_FINAL\consultorio\Consultorio.API\APIConsultorio\obj\Debug\net8.0\APIConsultorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\FACUL\PROJETO_FINAL\consultorio\Consultorio.API\APIConsultorio\obj\Debug\net8.0\APIConsultorio.AssemblyInfoInputs.cache
+C:\FACUL\PROJETO_FINAL\consultorio\Consultorio.API\APIConsultorio\obj\Debug\net8.0\APIConsultorio.AssemblyInfo.cs
+C:\FACUL\PROJETO_FINAL\consultorio\Consultorio.API\APIConsultorio\obj\Debug\net8.0\APIConsultorio.csproj.CoreCompileInputs.cache
+C:\FACUL\PROJETO_FINAL\consultorio\Consultorio.API\APIConsultorio\obj\Debug\net8.0\APIConsultorio.MvcApplicationPartsAssemblyInfo.cs
+C:\FACUL\PROJETO_FINAL\consultorio\Consultorio.API\APIConsultorio\obj\Debug\net8.0\APIConsultorio.MvcApplicationPartsAssemblyInfo.cache

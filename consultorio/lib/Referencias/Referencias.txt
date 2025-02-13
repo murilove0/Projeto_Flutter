@@ -1,0 +1,8 @@
+### 10. *Sistema de Atendimento em Clínica Médica*
+   - *Descrição*: Um sistema para gerenciar agendamentos e atendimento de pacientes em uma clínica.
+   - *Funcionalidades*:
+     - Cadastro de pacientes, médicos e especialidades.
+     - Agendamento de consultas e gerenciamento de prontuários.
+     - Relatórios de consultas realizadas e em aberto.
+     - Persistência de dados usando ADO.NET e EF Core.
+   - *Conceitos*: Abstração (Consulta, Paciente, Médico), composição, encapsulamento, UML, tratamento de exceções, interface gráfica.
